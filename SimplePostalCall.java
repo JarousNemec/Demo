@@ -9,12 +9,12 @@ public class SimplePostalCall {
 
     private static final char TAB = '\t';
     private static final char LF = '\n';
-
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
     private static final int SATORI_TEMPLATE_NAME_TO_USE = 151;
     private static final int SATORI_FIELD_LIST_IN = 200;
     private static final int SATORI_FIELD_LIST_OUT = 201;
     private static final int SATORI_RECORD_COUNT = 301;
-    private static final int SATORI_INPUT_BLOCK_RECORD_COUNT = 202;
+    pranta
     private static final int SATORI_RECORD_COUNT_PER_RECEIVE = 310;
     private static final int SATORI_SHOW_SORT_PROGRESS = 303;
     private static final int SATORI_MAIL_OWNER_MAILER_ID = 6828;

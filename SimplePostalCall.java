@@ -9,7 +9,7 @@ public class SimplePostalCall {
 
     private static final char TAB = '\t';
     private static final char LF = '\n';
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa   bbbbbbbbbbbbbbbbbbbbbb   aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
     private static final int SATORI_TEMPLATE_NAME_TO_USE = 151;
     private static final int SATORI_FIELD_LIST_IN = 200;
     private static final int SATORI_FIELD_LIST_OUT = 201;
